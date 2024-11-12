@@ -10,15 +10,15 @@ Kelas : TI.24.A.3
 # input dan outpu dari Praktikum 5
 ## input
 
-<img src="praktikum5.png">
+<img src="INPUT.png">
 
 ## output
 
-<img src="outputpraktikum5.png">
+<img src="OUTPUT.png">
 
 ## flowchart
 
-<img src="flowchartprak5.png">
+<img src="Flowchart5.png.jpg">
 
 
 # 1. Fungsi hitung_nilai_akhir(tugas, uts, uas):
